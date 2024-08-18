@@ -10,4 +10,4 @@ I am a student in Muni Universty learning how to create web pages using GitHub.
 
 ## Contact
 You can reach me at
-[bendictokawagga@gmail.com]
+[benedictkawagga@gmail.com]

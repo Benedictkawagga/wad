@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<title>campus life</title>
+<body>
+<h1 style="color:blue;">Requirements of the first intake</h1>
+<table>
+<th style="color:red;">
+<tr>name</tr>
+<tr>address</tr>
+<tr>contact</tr>
+</th>
+<td>
+<tr>ben</tr>
+<tr>nebbi</tr>
+<tr>02029847656</tr>
+</td>
+<td>
+<tr>bob</tr>
+<tr>arua</tr>
+<tr>0398474653</tr>
+</td>
+</body>
+</html>
